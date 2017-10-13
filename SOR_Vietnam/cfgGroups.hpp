@@ -11,7 +11,7 @@ class CfgGroups
 	{
 		class SOR_Groups_Nam
 		{
-			name = "SOR Infantry (Nam)";
+			name = "160th Infantry (Nam)";
 			
 			class SOR_InfGroups_Nam
 			{
@@ -178,7 +178,7 @@ class CfgGroups
 					class Unit1
 					{
 						side = 1;
-						vehicle = "SOR_Spotter_Nam";
+						vehicle = "SOR_ReconGrenadier_Nam";
 						rank = SERGEANT;
 						position[] = {0, -2, 0};
 					};
