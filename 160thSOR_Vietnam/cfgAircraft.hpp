@@ -3,7 +3,7 @@ class RHS_AH1Z_wd;
 //AH1Z BASE CLASS
 class SOR_COBRA_BASE: RHS_AH1Z_wd
 {
-	scope=2;
+	scope=0;
 	side=1;	
 	displayName="AH1Z";
 	editorCategory = "SOR_Cat_Faction_Nam";
@@ -24,6 +24,7 @@ class SOR_COBRA_BASE: RHS_AH1Z_wd
 
 class SOR_COBRA_Nam: SOR_COBRA_BASE
 {
+	scope=2;
 	class Components: Components
 	{
 		class TransportPylonsComponent
