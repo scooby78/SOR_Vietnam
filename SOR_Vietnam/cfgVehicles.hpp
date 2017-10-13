@@ -5,10 +5,11 @@
 	Description: cfgVehicles.hpp
 */
 
- 
+ class cfgVehicles 
+{
 	#include "cfgBackpacks.hpp"
 	#include "cfgTroopsNam.hpp"	
 	#include "cfgCrates.hpp"
 	#include "cfgAircraft.hpp"
 	#include "cfgArmour.hpp"
-	
+};
