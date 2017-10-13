@@ -20,7 +20,7 @@ class US_ARMY_Uniform : Uniform_Base
         picture = "\A3\characters_f\data\ui\icon_U_B_CombatUniform_mcam_ca.paa";		
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_blufor_diver";
 		hiddenSelections[] = {"Camo1","Camo2"};
-		hiddenSelectionsTextures[] = {"SOR_Vietnam\data\1.paa","SOR_Vietnam\data\ia_soldier_01_clothing_cw.paa"};
+		hiddenSelectionsTextures[] = {"160thSOR_Vietnam\data\1.paa","160thSOR_Vietnam\data\ia_soldier_01_clothing_cw.paa"};
 		author = "Yettie";
 	      
         class ItemInfo : UniformItem 

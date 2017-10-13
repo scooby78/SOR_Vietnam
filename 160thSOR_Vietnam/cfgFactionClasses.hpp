@@ -16,7 +16,7 @@ class cfgFactionClasses
 	};
 	class SOR_Faction_Nam
 	{
-		displayName = "160th SOR Nam";
+		displayName = "160th SOR Vietnam";
 		icon = "160thSOR\data\160th.paa";
 		priority = 5;
 		side = 1;
