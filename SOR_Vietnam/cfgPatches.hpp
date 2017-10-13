@@ -7,56 +7,55 @@
 
 class CfgPatches 
 {
-	class 160th_SOR_Loadouts 
+	class 160th_SOR_Vietnam
 	{
 		author="160th SOR";
 		url="http://www.160th.net";
-		version="2.4.8";
+		version="0.0.1";
 		units[] = 
 		{
-			// Desert Troops 
-			"SOR_Actual_D",
-			"SOR_Commander_D",
-			"SOR_MechCommand_D",
-			"SOR_AirCommand_D",
-			"SOR_RTO_D",
-			"SOR_TeamLeader_D",
-			"SOR_TeamLeader2_D",
-			"SOR_Medic_D",
-			"SOR_HMedic_D",
-			"SOR_M249AR_D",
-			"SOR_M240AR_D",
-			"SOR_Grenadier_D",
-			"SOR_Rifleman_D",
-			"SOR_Rifleman_ammo_D",
-			"SOR_RiflemanAT_D",
-			"SOR_HeliPilot_D",
-			"SOR_HeliCrew_D",
-			"SOR_JetPilot_D",
-			"SOR_MEVPilot_D",
-			"SOR_ParaJumper_D",
-			"SOR_ReconLeader_D",
-			"SOR_ReconJTAC_D",
-			"SOR_ReconRifleman_D",
-			"SOR_Recon_M249AR_D",
-			"SOR_ReconSpotter_D",
-			"SOR_Marksman_D",
-			"SOR_Spotter_D",
-			"SOR_Sniper_D",
-			"SOR_MechCrew_D",
-			"SOR_MechOperator_D",
-			"SOR_MechCrewCommander_D",
-			"SOR_MechDriver_D",
-			"SOR_HMGActual_D",
-			"SOR_HMGGunner_D",
-			"SOR_HMGCarrier_D",
-			"SOR_HMGRFL_D",
-			"SOR_MORActual_D",
-			"SOR_MORGunner_D",
-			"SOR_MORCarrier_D",
-			"SOR_MORRFL_D",
-			"SOR_Engineer_Teamleader_D",
-			"SOR_Engineer_D",
+			"SOR_Actual_Nam",
+			"SOR_Commander_Nam",
+			"SOR_MechCommand_Nam",
+			"SOR_AirCommand_Nam",
+			"SOR_RTO_Nam",
+			"SOR_TeamLeader_Nam",
+			"SOR_TeamLeader2_Nam",
+			"SOR_Medic_Nam",
+			"SOR_HMedic_Nam",
+			"SOR_M249AR_Nam",
+			"SOR_M240AR_Nam",
+			"SOR_Grenadier_Nam",
+			"SOR_Rifleman_Nam",
+			"SOR_Rifleman_ammo_Nam",
+			"SOR_RiflemanAT_Nam",
+			"SOR_HeliPilot_Nam",
+			"SOR_HeliCrew_Nam",
+			"SOR_JetPilot_Nam",
+			"SOR_MEVPilot_Nam",
+			"SOR_ParaJumper_Nam",
+			"SOR_ReconLeader_Nam",
+			"SOR_ReconJTAC_Nam",
+			"SOR_ReconRifleman_Nam",
+			"SOR_Recon_M249AR_Nam",
+			"SOR_ReconGrenadier_Nam",
+			"SOR_Marksman_Nam",
+			"SOR_Spotter_Nam",
+			"SOR_Sniper_Nam",
+			"SOR_MechCrew_Nam",
+			"SOR_MechOperator_Nam",
+			"SOR_MechCrewCommander_Nam",
+			"SOR_MechDriver_Nam",
+			"SOR_HMGActual_Nam",
+			"SOR_HMGGunner_Nam",
+			"SOR_HMGCarrier_Nam",
+			"SOR_HMGRFL_Nam",
+			"SOR_MORActual_Nam",
+			"SOR_MORGunner_Nam",
+			"SOR_MORCarrier_Nam",
+			"SOR_MORRFL_Nam",
+			"SOR_Engineer_Teamleader_Nam",
+			"SOR_Engineer_Nam"
 		};
 		weapons[] = 
 		{
@@ -84,7 +83,8 @@ class CfgPatches
 			"SMA_Weapons",
 			"ace_medical",
 			"ace_common",
-			"task_force_radio_items"
+			"task_force_radio_items",
+			"160th_SOR_Loadouts"
 		};
 	};
 };
