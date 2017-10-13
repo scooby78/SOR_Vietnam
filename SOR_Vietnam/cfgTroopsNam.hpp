@@ -30,8 +30,9 @@ class SOR_JetPilot_D;
 class SOR_MEVPilot_D;
 class SOR_ParaJumper_D;
 class SOR_ReconLeader_D;
+class SOR_ReconJTAC_D;
 class SOR_Recon_M249AR_D;
-class SOR_ReconSpotter_D;
+class SOR_ReconGrenadier_D;
 class SOR_Marksman_D;
 class SOR_Sniper_D;
 class SOR_Spotter_D;
@@ -66,7 +67,7 @@ class SOR_Actual_Nam : SOR_Actual_D
 		Standard_Equipment_Nam
 	};   
 };
-	
+
 //Commander	
 class SOR_Commander_Nam : SOR_Commander_D
 {
@@ -664,7 +665,7 @@ class SOR_Recon_M249AR_Nam : SOR_Recon_M249AR_D
 	};			
 };	
 
-class SOR_ReconSpotter_Nam : SOR_ReconSpotter_D	
+class SOR_ReconGrenadier_Nam : SOR_ReconGrenadier_D	
 {
 	editorPreview = "\160thSOR\data\SOR_ReconLeader_W.jpg";
 	editorCategory = "SOR_Cat_Faction_Nam";
@@ -924,3 +925,4 @@ class SOR_Engineer_Nam : SOR_Engineer_Teamleader_Nam
 	displayName = "Engineer";
 	backpack = "SOR_Eng_Repair_Pack_W";
 };
+
