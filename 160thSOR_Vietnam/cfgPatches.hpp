@@ -84,7 +84,8 @@ class CfgPatches
 			"ace_medical",
 			"ace_common",
 			"task_force_radio_items",
-			"160th_SOR_Loadouts"
+			"160th_SOR_Loadouts",
+			"rhsusf_a2port_air2"
 		};
 	};
 };
