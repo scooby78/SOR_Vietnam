@@ -1,6 +1,5 @@
 class RHS_AH1Z_wd;
 
-
 class SOR_COBRA_Nam: RHS_AH1Z_wd
 {
 	scope=2;
@@ -17,3 +16,4 @@ class SOR_COBRA_Nam: RHS_AH1Z_wd
 	class TransportMagazines{};
 	class TransportBackpacks{};	
 };
+

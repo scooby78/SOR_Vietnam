@@ -12,5 +12,4 @@
 	#include "cfgCrates.hpp"
 	#include "cfgAircraft.hpp"
 	#include "cfgArmour.hpp"
-	#include "cfgAircraft.hpp"
 };
