@@ -11,6 +11,6 @@ class CfgEditorCategories
 {
 	class SOR_Cat_Faction_Nam
 	{
-		displayName = "160th SOR Vietnam";
+		displayName = "160th SOR (Vietnam)";
 	};
 };
