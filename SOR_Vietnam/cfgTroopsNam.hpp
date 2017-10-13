@@ -12,6 +12,32 @@ class SOR_Actual_D;
 class SOR_Commander_D;
 class SOR_ZeusCommand_D;
 class SOR_MechCommand_D;
+class SOR_AirCommand_D;
+class SOR_RTO_D;
+class SOR_Teamleader_D;
+class SOR_Teamleader2_D;
+class SOR_Medic_D;
+class SOR_Medic_W;
+class SOR_M249AR_D;
+class SOR_M240AR_D;
+class SOR_Grenadier_D;
+class SOR_Rifleman_D;
+class SOR_Rifleman_ammo_D;
+class SOR_RiflemanAT_D;
+class SOR_HeliPilot_D;
+class SOR_HeliCrew_D;
+class SOR_JetPilot_D;
+class SOR_MEVPilot_D;
+class SOR_ParaJumper_D;
+class SOR_ReconLeader_D;
+class SOR_Recon_M249AR_D;
+class SOR_ReconSpotter_D;
+class SOR_Marksman_D;
+class SOR_Sniper_D;
+class SOR_Spotter_D;
+class SOR_MechCrew_D;
+class SOR_Engineer_Teamleader_D;
+
 
 class SOR_Actual_Nam : SOR_Actual_D
 {
