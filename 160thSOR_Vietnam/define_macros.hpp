@@ -24,3 +24,20 @@
 								"ItemCompass",\
 								"ItemWatch"
 									
+#define Standard_Mags_VC_Nam 	"30Rnd_762x39_Mag_F",\
+								"30Rnd_762x39_Mag_F",\
+								"30Rnd_762x39_Mag_F",\
+								"30Rnd_762x39_Mag_F",\
+								"30Rnd_762x39_Mag_F",\
+								"30Rnd_762x39_Mag_F",\
+								"30Rnd_762x39_Mag_F",\
+								"rhsgref_mag_rkg3em",\
+								"rhsgref_mag_rkg3em",\
+								"rhs_mag_rdg2_black",\
+								"rhs_mag_rdg2_black"
+								
+#define Standard_Mags_VC_AR_Nam 	"rhs_100Rnd_762x54mmR",\
+								"rhs_100Rnd_762x54mmR",\
+								"rhs_100Rnd_762x54mmR",\
+								"rhsgref_mag_rkg3em",\
+								"rhs_mag_rdg2_black"

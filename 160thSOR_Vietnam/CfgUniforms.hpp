@@ -32,3 +32,21 @@ class US_ARMY_Uniform : Uniform_Base
 		};
 };	
 
+class VC_Uniform_1 : Uniform_Base 
+{
+        scope = 2;
+		displayName = "VC Uniform";
+		modelsides[] = {3,2,1,0};
+		model="\A3\characters_F\OPFOR\o_officer.p3d";
+		hiddenSelections[] = {"camo"};
+		hiddenSelectionsTextures[] = {"160thSOR_Vietnam\data\vc3.paa"};
+		author = "Yettie";
+	      
+        class ItemInfo : UniformItem 
+		{
+            uniformModel = "-";
+            uniformClass = "SOR_Nam_VC_1";
+            containerClass = "Supply120";
+            mass = 20;
+		};
+};	

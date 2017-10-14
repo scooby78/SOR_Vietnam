@@ -21,5 +21,12 @@ class cfgFactionClasses
 		priority = 5;
 		side = 1;
 	};
+	class SOR_Faction_VC
+	{
+		displayName = "160th SOR Nam";
+		icon = "160thSOR\data\160th.paa";
+		priority = 5;
+		side = 0;
+	};
 
 };

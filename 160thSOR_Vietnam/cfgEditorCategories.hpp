@@ -13,4 +13,8 @@ class CfgEditorCategories
 	{
 		displayName = "160th SOR (Vietnam)";
 	};
+	class SOR_Cat_Faction_VC
+	{
+		displayName = "160th VC";
+	};
 };
